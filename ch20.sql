@@ -6,4 +6,3 @@
 --Order By ArtistName Asc;
 
 --3.Write a SELECT query that lists all the songs in the Song table and include the Artist name
-
